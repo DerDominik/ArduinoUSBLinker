@@ -18,6 +18,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
 */
 
 ///////////////////////////////////////////////////////////////////////////////
+// Add for use with MS VSCode
 #include <Arduino.h>
 
 // Check for MultiWii
